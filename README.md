@@ -1,4 +1,5 @@
 Nhóm 17
+<br>
 Thành viên: Nguyễn Thành Phước
 <br>
 Lỗi cú pháp ở file customer.php không đóng ngoặc vuông
